@@ -1,0 +1,6 @@
+Site, DateTime, Water Level, Prediction, Residual
+abellpoint,2021-09-16T00:00:00,0.954,0.941,0.013
+abellpoint,2021-09-16T00:10:00,0.885,0.876,0.009
+abellpoint,2021-09-16T00:20:00,0.815,0.818,-0.003
+abellpoint,2021-09-16T00:30:00,0.759,0.764,-0.005
+abellpoint,2021-09-16T00:40:00,0.727,0.716,0.011
